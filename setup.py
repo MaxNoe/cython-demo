@@ -45,8 +45,8 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(
-    name='eventio',
-    version='0.18.0',
+    name='cython_demo',
+    version='0.1.0',
     description='Python read-only implementation of the EventIO file format',
     long_description=long_description,
     long_description_content_type='text/markdown',
